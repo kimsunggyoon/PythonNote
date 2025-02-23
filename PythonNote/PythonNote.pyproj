@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>03a9d5bb-a132-4c59-bd29-ebf6e6fbcca8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>gittest.py</StartupFile>
+    <StartupFile>LamdaTest.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="gittest.py" />
     <Compile Include="HelloWorld.py" />
+    <Compile Include="LamdaTest.py" />
     <Compile Include="PythonNote.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
