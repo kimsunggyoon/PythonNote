@@ -1,0 +1,3 @@
+# coding: euc-kr
+
+print("æ»≥Á«œºÓ")
